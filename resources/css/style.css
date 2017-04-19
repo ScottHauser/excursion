@@ -24,12 +24,17 @@ p {
   color: gray;
 
 }
-p.elsewhere {
-  color: aquamarine;
+p.elsewhere a {
+  color: Aquamarine;
   font-size: 16px;
+  text-align: center;
 }
 
 p.copy {
   color: gray;
   text-align: right;
+}
+
+div.section {
+  text-align: center;
 }
