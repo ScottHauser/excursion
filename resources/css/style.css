@@ -1,5 +1,5 @@
 body {
-  background-color: black:inherit;
+  background-color: black;
 }
 
 h1 {
@@ -22,7 +22,7 @@ p {
   color: gray;
   font-size: 21px;
   color: gray;
-  
+
 }
 p.elsewhere {
   color: aquamarine;
